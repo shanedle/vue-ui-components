@@ -1,4 +1,4 @@
-# Vue Components
+# Vue UI Components
 
 This project demonstrates a set of reusable Vue 3 components built using TypeScript and the Composition API. It showcases custom Button, Input, and Data View components with various features and styling options.
 
