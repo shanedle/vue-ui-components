@@ -216,6 +216,7 @@ export default defineComponent({
 .search-wrapper {
   flex-grow: 1;
   min-width: 200px;
+  height: 40px;
 }
 
 .buttons-wrapper {
